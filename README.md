@@ -11,4 +11,9 @@ The libraries used are:
 - pandas
 - numpy
 - tmdbv3api
+
 and OMDB api page.
+
+------------------------------------------------------
+
+Using the above csv files I created a Tableau Story which you can find [here](https://public.tableau.com/app/profile/dimitrios.mysiloglou/viz/Filmpit/FilmpitMovies)
